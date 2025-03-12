@@ -8,8 +8,8 @@
 
 1. 克隆或下载项目到本地：
 ```bash
-git clone <项目地址>
-cd <项目目录>
+git clone https://github.com/AshfordLee/URANUS_RESEARCH.git
+cd URANUS_RESEARCH
 ```
 
 2. 创建并激活虚拟环境（推荐）：
